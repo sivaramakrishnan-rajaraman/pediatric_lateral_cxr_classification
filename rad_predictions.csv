@@ -1,4 +1,4 @@
-original,renamed,original_width,original_height,renamed_width,renamed_height,PID,Site,Type,MC_status,AGEU_YR,AGEU_MON,AGEU_DAY,SEX,alopezca_prediction,lamorenog_prediction,rdmontoyac_prediction,Classification,View
+original,renamed,original_width,original_height,renamed_width,renamed_height,PID,Site,Type,MC_status,AGEU_YR,AGEU_MON,AGEU_DAY,SEX,rad1_prediction,rad2_prediction,rad3_prediction,Classification,View
 AN2_0669-AP.jpg,AN2_0669-AP-LAT_1Y1M.jpg,2370,1770,4740,1770,24000,RCM,Cases,Confirmed,1,1,0,FEMALE,Cases,Cases,Cases,MC_CONS,AP
 AN2_0669-LAT.jpg,AN2_0669-AP-LAT_1Y1M.jpg,2370,1770,4740,1770,24000,RCM,Cases,Confirmed,1,1,0,FEMALE,Cases,Cases,Cases,MC_CONS,LAT
 AN2_1209-PA.jpg,AN2_1209-PA-LAT_0Y7M.jpg,2370,1770,4740,1770,24012,RCM,Cases,Confirmed,0,7,0,MALE,Cases,Cases,Cases,MC_CONS,PA
