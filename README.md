@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ## 🗃️ Data & Layout
 ```
 project/
-├─ train_infer_visualize.ipynb
+├─ train_infer.ipynb
 ├─ data/
 │  ├─ train/
 │  │  ├─ normal/
@@ -98,8 +98,8 @@ Edit the h dictionary near the top of the notebook:
 
 **Script mode (optional):**
   ```bash
-  jupyter nbconvert --to script train_infer_visualize.ipynb
-  python train_infer_visualize.py
+  jupyter nbconvert --to script train_infer.ipynb
+  python train_infer.py
   ```
 
 ---
